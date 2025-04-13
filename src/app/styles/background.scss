@@ -1,0 +1,14 @@
+:root {
+  --chakra-colors-fg: #001840;
+}
+
+$bg-color: #231F20;
+
+.bg-black {
+  background-color: $bg-color;
+}
+
+.bg-blue-light {
+  --tw-bg-opacity: 1;
+  background-color: rgb(68 154 223 / var(--tw-bg-opacity, 1));
+}
